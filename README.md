@@ -41,6 +41,11 @@ Add Robot Framework Language Server:
 
 
 
+https://github.com/adidrmwan/onebrick-automation-rf/assets/22820270/3bf3ce7b-1e78-4f11-8aac-74019edda701
+
+
+
+
 ## Documentations
 * https://robotframework.org/?tab=1#getting-started
 * https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
