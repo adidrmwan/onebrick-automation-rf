@@ -1,0 +1,8 @@
+robotframework==6.1.1
+robotframework-pabot==2.16.0
+robotframework-requests==0.9.5
+robotframework-jsonlibrary==0.5
+robotframework-datadriver==1.4.1
+robotframework-databaselibrary
+robotframework-faker
+robotframework-seleniumlibrary
